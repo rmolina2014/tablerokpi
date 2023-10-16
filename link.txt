@@ -1,0 +1,5 @@
+https://plotly.com/javascript/bar-charts/#grouped-bar-chart
+
+https://apexcharts.com/javascript-chart-demos/area-charts/basic/
+
+https://www.chartjs.org/docs/latest/samples/information.html
